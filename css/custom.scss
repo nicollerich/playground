@@ -1,0 +1,27 @@
+@import "basscss.scss" ;
+
+
+.sidebar {
+	padding: 0px 0 10px 30px;
+	background-color: 0073F2;
+	color: white;
+	width: 250px;
+	height: 100%;
+	float:left;
+}
+
+.h3 {
+	font-size: 1rem;
+	font-weight: normal;
+}
+
+p.a:hover{
+	color: black;
+	font-weight: bold;
+}
+
+.space {
+	padding-left:30px;
+}
+
+ 

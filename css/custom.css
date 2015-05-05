@@ -1306,23 +1306,23 @@ input[type=range] {
 .muted {
   opacity: 0.5; }
 
+.border-blue {
+  border-color: #0073F2; }
+
 .sidebar {
+  position: fixed;
   padding: 0px 0 10px 30px;
-  background-color: 0073F2;
+  background-color: #0073F2;
   color: white;
   width: 250px;
   height: 100%;
   float: left; }
-
-.h3 {
-  font-size: 1rem;
-  font-weight: normal; }
 
 p.a:hover {
   color: black;
   font-weight: bold; }
 
 .space {
-  padding-left: 30px; }
+  padding-left: 40px; }
 
 /*# sourceMappingURL=custom.css.map */
